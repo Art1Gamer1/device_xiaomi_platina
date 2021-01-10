@@ -51,3 +51,6 @@ include vendor/xiaomi/platina/BoardConfigVendor.mk
 
 # Vendor Security patch level
 VENDOR_SECURITY_PATCH := 2020-04-05
+
+# MiuiCamera
+include vendor/miuicamera/common/BoardConfigVendor.mk
